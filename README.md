@@ -31,3 +31,6 @@ With a clean, dynamic, and interactive interface, this dashboard enables HR team
 Built using cleaned and structured CSV datasets, the visuals were crafted for real-time managerial insights, showcasing Power BI’s slicing, filtering, and KPI cards to their full extent.
 <br><br>
 🧠 Recognition: Praised by judges for its intuitive layout, visual storytelling, and actionable insights – standing out among senior competitors.
+
+# To Know More.. Click the Below Link
+https://www.canva.com/design/DAGR3d0FaMY/H0slDACO4HJSOgaFzLVZFg/view?utm_content=DAGR3d0FaMY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hc20f54461c
